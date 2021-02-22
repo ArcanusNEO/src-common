@@ -5,3 +5,4 @@ mkdir Music
 mkdir Videos
 mkdir Download
 mkdir Templates
+mkdir Documents

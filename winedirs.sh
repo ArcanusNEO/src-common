@@ -6,3 +6,4 @@ mkdir Videos
 mkdir Download
 mkdir Templates
 mkdir Documents
+mkdir Public
